@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850011002873",
+    "firebase_url": "https://prueba20k-default-rtdb.firebaseio.com",
+    "project_id": "prueba20k",
+    "storage_bucket": "prueba20k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850011002873:android:4688af7d9328876610cf28",
+        "android_client_info": {
+          "package_name": "com.example.sigesapoldemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850011002873-0j4ni7cl4d12miglfelevifh03gnq1hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqxuKIJcIoQ9orBWeBi9KVMaCuSadu10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850011002873-0j4ni7cl4d12miglfelevifh03gnq1hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

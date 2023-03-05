@@ -1,0 +1,70 @@
+{
+    "results": [
+        {
+            "id" : "1",
+            "nombre": "Gerardo 1",
+            "paterno" : "Santillana 1",   
+            "materno" : "Santillana 1",
+            "descripcion_tv" : "Descripcion TV 1", 
+            "consultorio" : "consultorio 1",
+            "id_asegurado" : -1,
+            "ticket" : "Ticket 1",
+            "ticket_tv" : "Ticket TV 1",
+            "tipo" : "tickets",
+            "estado_llamada" : "0"
+        },
+        {
+            "id" : "2",
+            "nombre": "Gerardo 2",
+            "paterno" : "Santillana 2",   
+            "materno" : "Santillana 2",
+            "descripcion_tv" : "Descripcion TV 2", 
+            "consultorio" : "consultorio 2",
+            "id_asegurado" : 1,
+            "ticket" : "Ticket 2",
+            "ticket_tv" : "Ticket TV 2",
+            "tipo" : "tickets",
+            "estado_llamada" : "1"
+        },
+        {
+            "id" : "3",
+            "nombre": "Gerardo 3",
+            "paterno" : "Santillana 3",   
+            "materno" : "Santillana 3",
+            "descripcion_tv" : "Descripcion TV 3", 
+            "consultorio" : "consultorio 3",
+            "id_asegurado" : -1,
+            "ticket" : "Ticket 3",
+            "ticket_tv" : "Ticket TV 3",
+            "tipo" : "citas",
+            "estado_llamada" : "0"
+        },
+        {
+            "id" : "4",
+            "nombre": "Gerardo 4",
+            "paterno" : "Santillana 4",   
+            "materno" : "Santillana 4",
+            "descripcion_tv" : "Descripcion TV 4", 
+            "consultorio" : "consultorio 4",
+            "id_asegurado" : -1,
+            "ticket" : "Ticket 4",
+            "ticket_tv" : "Ticket TV 4",
+            "tipo" : "tickets",
+            "estado_llamada" : "1"
+        },
+        {
+            "id" : "5",
+            "nombre": "Gerardo 5",
+            "paterno" : "Santillana 5",   
+            "materno" : "Santillana 5",
+            "descripcion_tv" : "Descripcion TV 5", 
+            "consultorio" : "consultorio 5",
+            "id_asegurado" : 1,
+            "ticket" : "Ticket 5",
+            "ticket_tv" : "Ticket TV 5",
+            "tipo" : "citas",
+            "estado_llamada" : "0"
+        }
+    
+    ]
+}
