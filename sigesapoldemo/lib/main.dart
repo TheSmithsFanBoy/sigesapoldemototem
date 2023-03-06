@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:sigesapoldemo/provider/paciente_provider.dart';
-import 'package:sigesapoldemo/screens/home_screen.dart';
-import 'package:sigesapoldemo/screens/list_tiles_usuarios.dart';
-import 'package:sigesapoldemo/screens/screen.dart';
-import 'package:sigesapoldemo/screens/tts.dart';
+import 'package:sigesapoldemo/screens/home_page.dart';
+import 'package:sigesapoldemo/screens/tts_package_demo.dart';
 
 void main() => runApp(const MyApp());
 
@@ -21,7 +19,7 @@ class MyApp extends StatelessWidget {
         title: 'Material App',
         theme: ThemeData.dark(),
         debugShowCheckedModeBanner: false,
-        home: ListaPacientes()
+        home: HomePage()
       ),
     );
   }

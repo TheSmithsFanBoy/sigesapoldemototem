@@ -9,14 +9,14 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:sigesapoldemo/provider/paciente_provider.dart';
 import 'package:soundpool/soundpool.dart';
 
-  class ListaPacientes extends StatefulWidget {
-    const ListaPacientes({super.key});
+  class HomePage extends StatefulWidget {
+    const HomePage({super.key});
 
     @override
-    ListaPacientesState createState() => ListaPacientesState();
+    HomePageState createState() => HomePageState();
   }
 
-  class ListaPacientesState extends State<ListaPacientes> {
+  class HomePageState extends State<HomePage> {
     List<Paciente> _pacientes = [];
 
     TextEditingController _tvController = TextEditingController();
